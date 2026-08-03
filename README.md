@@ -1,10 +1,9 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Yufan+Liang+(%E6%A2%81%E5%AE%87%E5%87%A1);AI+Agent+Tooling+Builder;Undergrad+%40+Southeast+University+%F0%9F%8E%93;Co-building+loong+%F0%9F%A6%80+639%2B+stars)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Yufan+Liang+(%E6%A2%81%E5%AE%87%E5%87%A1);AI+Agent+Tooling+Builder;Undergrad+%40+Southeast+University+%F0%9F%8E%93;AI+Skills+%26+Automation+Pipelines)](https://git.io/typing-svg)
 
 **Build the tool you wish existed.**
 
-[![loong](https://img.shields.io/badge/loong-639%2B%20stars-orange?style=flat-square&logo=rust)](https://github.com/zeroclaw-labs/loong)
 [![GitHub PRO](https://img.shields.io/badge/GitHub-PRO-1f6feb?style=flat-square&logo=github)](https://github.com/YunfanGoForIt)
 [![Visitors](https://komarev.com/ghpvc/?username=YunfanGoForIt&style=flat-square&color=70a5fd&label=PROFILE+VIEWS)](https://github.com/YunfanGoForIt)
 
@@ -15,7 +14,6 @@
 ### 🧭 About Me
 
 - 🎓 Undergraduate at **Southeast University (东南大学)**, BME background × software × community
-- 🦀 Co-building **[loong](https://github.com/zeroclaw-labs/loong)** — lightweight, extensible AI agent infrastructure in Rust
 - 🧩 Designing **AI Skills & automation pipelines**: GitHub Star → DeepWiki → RAG → Feishu wiki, meeting-minutes distillation, TEDx talk editing
 - 🏫 Campus infra: OpenWrt gateway, course catcher, info hub for freshmen
 - 🧬 Biomedical AI side quest: Parkinson's gait diagnosis, lung CT nodule detection
@@ -43,8 +41,8 @@
 ### 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/zeroclaw-labs/loong">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=zeroclaw-labs&repo=loong&theme=tokyonight&hide_border=true" alt="loong" />
+  <a href="https://github.com/YunfanGoForIt/codex-tts">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YunfanGoForIt&repo=codex-tts&theme=tokyonight&hide_border=true" alt="codex-tts" />
   </a>
   <a href="https://github.com/YunfanGoForIt/Star-DART-Skill">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YunfanGoForIt&repo=Star-DART-Skill&theme=tokyonight&hide_border=true" alt="Star-DART-Skill" />
