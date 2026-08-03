@@ -32,29 +32,28 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YunfanGoForIt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YunfanGoForIt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=YunfanGoForIt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunfanGoForIt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img height="165" src="https://github-profile-trophy.vercel.app/?username=YunfanGoForIt&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=6&margin-h=6" alt="Trophies" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YunfanGoForIt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ### 🚀 Featured Projects
 
 <div align="center">
   <a href="https://github.com/zeroclaw-labs/loong">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeroclaw-labs&repo=loong&theme=tokyonight&hide_border=true" alt="loong" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=zeroclaw-labs&repo=loong&theme=tokyonight&hide_border=true" alt="loong" />
   </a>
   <a href="https://github.com/YunfanGoForIt/Star-DART-Skill">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YunfanGoForIt&repo=Star-DART-Skill&theme=tokyonight&hide_border=true" alt="Star-DART-Skill" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YunfanGoForIt&repo=Star-DART-Skill&theme=tokyonight&hide_border=true" alt="Star-DART-Skill" />
   </a>
   <a href="https://github.com/YunfanGoForIt/Smart-Minutes-Open">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YunfanGoForIt&repo=Smart-Minutes-Open&theme=tokyonight&hide_border=true" alt="Smart-Minutes-Open" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YunfanGoForIt&repo=Smart-Minutes-Open&theme=tokyonight&hide_border=true" alt="Smart-Minutes-Open" />
   </a>
   <a href="https://github.com/YunfanGoForIt/SEU-OpenWrt-Gateway">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YunfanGoForIt&repo=SEU-OpenWrt-Gateway&theme=tokyonight&hide_border=true" alt="SEU-OpenWrt-Gateway" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YunfanGoForIt&repo=SEU-OpenWrt-Gateway&theme=tokyonight&hide_border=true" alt="SEU-OpenWrt-Gateway" />
   </a>
 </div>
 
