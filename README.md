@@ -1,62 +1,80 @@
-<h1 align="center">Hi 👋, I'm Yufan Liang (梁宇凡)</h1>
-<h3 align="center">Builder of AI agent tools & campus infra @ 东南大学 (Southeast University)</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/zeroclaw-labs/loong">
-    <img src="https://img.shields.io/badge/loong-639%20stars-orange?style=flat-square&logo=rust" alt="loong" />
-  </a>
-  <img src="https://img.shields.io/badge/GitHub-PRO-black?style=flat-square&logo=github" alt="PRO" />
-  <img src="https://komarev.com/ghpvc/?username=YunfanGoForIt&style=flat-square&color=blue" alt="profile views" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Yufan+Liang+(%E6%A2%81%E5%AE%87%E5%87%A1);AI+Agent+Tooling+Builder;Undergrad+%40+Southeast+University+%F0%9F%8E%93;Co-building+loong+%F0%9F%A6%80+639%2B+stars)](https://git.io/typing-svg)
+
+**Build the tool you wish existed.**
+
+[![loong](https://img.shields.io/badge/loong-639%2B%20stars-orange?style=flat-square&logo=rust)](https://github.com/zeroclaw-labs/loong)
+[![GitHub PRO](https://img.shields.io/badge/GitHub-PRO-1f6feb?style=flat-square&logo=github)](https://github.com/YunfanGoForIt)
+[![Visitors](https://komarev.com/ghpvc/?username=YunfanGoForIt&style=flat-square&color=70a5fd&label=PROFILE+VIEWS)](https://github.com/YunfanGoForIt)
+
+</div>
 
 ---
 
 ### 🧭 About Me
 
-- 🎓 Undergraduate at **Southeast University (东南大学)**, obsessed with turning AI agents into daily productivity
-- 🦀 Co-building **[loong](https://github.com/zeroclaw-labs/loong)** — a lightweight, extensible AI agent infrastructure in Rust (639 ⭐)
-- 🧩 I design **AI Skills & automation pipelines**: GitHub Star → DeepWiki → RAG → Feishu wiki, meeting minutes distillation, TEDx talk editing
-- 🏫 I also build things for campus: OpenWrt gateway, course catcher, info hub for freshmen
-- 🧬 Side interest: biomedical AI (Parkinson's gait diagnosis, lung CT nodule detection)
-- 🌐 Community: co-founding **IF.Link** — a community that truly belongs to builders
-
-### 🚀 Featured Projects
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [loong](https://github.com/zeroclaw-labs/loong) | Lightweight, clear, fully extensible AI agent infrastructure | `Rust` |
-| [Smart-Minutes-Open](https://github.com/YunfanGoForIt/Smart-Minutes-Open) | 飞书智能纪要复刻 Skill — 双 Agent 上下文隔离 + 分数驱动迭代 | `Python` |
-| [Star-DART-Skill](https://github.com/YunfanGoForIt/Star-DART-Skill) | Turn your GitHub Star repos into a personal open-source knowledge base | `Python` |
-| [SEU-OpenWrt-Gateway](https://github.com/YunfanGoForIt/SEU-OpenWrt-Gateway) | 校园网 OpenWrt 网关：多设备共享、portal 自动登录、OpenClash | `Shell` |
-| [DailyAcademicPulse](https://github.com/YunfanGoForIt/DailyAcademicPulse) | 期刊论文自动抓取、摘要翻译、思维导图生成与邮件推送 | `Python` |
-| [Diagnosis_PD_MultimodelGaitInfo](https://github.com/YunfanGoForIt/Diagnosis_PD_MultimodelGaitInfo) | Parkinson's diagnosis from multimodal gait information | `Jupyter` |
-| [codex-tts](https://github.com/YunfanGoForIt/codex-tts) | Local voice companion that reads Codex answers aloud | `JavaScript` |
+- 🎓 Undergraduate at **Southeast University (东南大学)**, BME background × software × community
+- 🦀 Co-building **[loong](https://github.com/zeroclaw-labs/loong)** — lightweight, extensible AI agent infrastructure in Rust
+- 🧩 Designing **AI Skills & automation pipelines**: GitHub Star → DeepWiki → RAG → Feishu wiki, meeting-minutes distillation, TEDx talk editing
+- 🏫 Campus infra: OpenWrt gateway, course catcher, info hub for freshmen
+- 🧬 Biomedical AI side quest: Parkinson's gait diagnosis, lung CT nodule detection
+- 🌐 Co-founding **IF.Link** — a community that truly belongs to builders
 
 ### 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=flat-square&logo=openwrt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Feishu-3370FF?style=flat-square&logo=lark&logoColor=white" />
-</p>
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,rust,ts,js,go,cpp,html,css,react,nodejs,vscode,git,github,linux,nginx,docker&perline=8&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YunfanGoForIt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunfanGoForIt&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YunfanGoForIt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=YunfanGoForIt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YunfanGoForIt&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunfanGoForIt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-profile-trophy.vercel.app/?username=YunfanGoForIt&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=6&margin-h=6" alt="Trophies" />
+</div>
+
+### 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/zeroclaw-labs/loong">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeroclaw-labs&repo=loong&theme=tokyonight&hide_border=true" alt="loong" />
+  </a>
+  <a href="https://github.com/YunfanGoForIt/Star-DART-Skill">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YunfanGoForIt&repo=Star-DART-Skill&theme=tokyonight&hide_border=true" alt="Star-DART-Skill" />
+  </a>
+  <a href="https://github.com/YunfanGoForIt/Smart-Minutes-Open">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YunfanGoForIt&repo=Smart-Minutes-Open&theme=tokyonight&hide_border=true" alt="Smart-Minutes-Open" />
+  </a>
+  <a href="https://github.com/YunfanGoForIt/SEU-OpenWrt-Gateway">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YunfanGoForIt&repo=SEU-OpenWrt-Gateway&theme=tokyonight&hide_border=true" alt="SEU-OpenWrt-Gateway" />
+  </a>
+</div>
+
+### 📫 Find Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-YunfanGoForIt-181717?style=for-the-badge&logo=github)](https://github.com/YunfanGoForIt)
+[![Feishu](https://img.shields.io/badge/Skills-Feishu%20Automation-3370FF?style=for-the-badge&logo=lark)](https://github.com/YunfanGoForIt/Smart-Minutes-Open)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"Build the tool you wish existed."</i> — 如果你也在做 AI Agent / 校园工具 / 自动化，欢迎来聊 🙌
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/output/github-contribution-grid-snake.svg" />
+  </picture>
+
+  *如果你也在做 AI Agent / 校园工具 / 自动化 — 欢迎来聊 🙌*
+</div>
