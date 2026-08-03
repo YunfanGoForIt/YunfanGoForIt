@@ -30,28 +30,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YunfanGoForIt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=YunfanGoForIt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YunfanGoForIt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="880" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/metrics.svg" alt="GitHub metrics: stars, contributions, streak, repositories and most used languages" />
 </div>
 
 ### 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/YunfanGoForIt/codex-tts">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YunfanGoForIt&repo=codex-tts&theme=tokyonight&hide_border=true" alt="codex-tts" />
-  </a>
-  <a href="https://github.com/YunfanGoForIt/Star-DART-Skill">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YunfanGoForIt&repo=Star-DART-Skill&theme=tokyonight&hide_border=true" alt="Star-DART-Skill" />
-  </a>
-  <a href="https://github.com/YunfanGoForIt/Smart-Minutes-Open">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YunfanGoForIt&repo=Smart-Minutes-Open&theme=tokyonight&hide_border=true" alt="Smart-Minutes-Open" />
-  </a>
-  <a href="https://github.com/YunfanGoForIt/SEU-OpenWrt-Gateway">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YunfanGoForIt&repo=SEU-OpenWrt-Gateway&theme=tokyonight&hide_border=true" alt="SEU-OpenWrt-Gateway" />
+  <a href="https://github.com/YunfanGoForIt?tab=repositories">
+    <img width="880" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/projects.svg" alt="Featured projects: Star-DART-Skill, Smart-Minutes-Open, SEU-OpenWrt-Gateway, codex-tts" />
   </a>
 </div>
 
