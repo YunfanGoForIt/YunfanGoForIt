@@ -15,7 +15,7 @@
 
 ### 🧭 About Me
 
-- 🎓 Undergraduate at **Southeast University (东南大学)** — BME major with a heavy software habit: machine learning, signals & systems, and shipping tools people actually use
+- 🎓 Undergraduate at **Southeast University** — BME major with a heavy software habit: machine learning, signals & systems, and shipping tools people actually use
 - 🌐 Founder of **[IF.Link](https://iflink.tech)** — a campus-born AI maker community that grew from zero to 1000+ members in one semester
 - 🧩 Open-source **Agent Skills** author — I turn repetitive AI workflows (knowledge bases, meeting minutes, talk editing) into reusable, teachable pipelines
 - 🧑‍🏫 **AI Coding educator** — I teach zero-base students to go from idea to on-stage demo in a single workshop
@@ -24,7 +24,7 @@
 
 ### 🌱 [IF.Link](https://iflink.tech) — the community I'm building
 
-> *Link the IFs, connect the dots.* 以人为本，守护连接。
+> *Link the IFs, connect the dots.*
 
 <div align="center">
 
@@ -44,7 +44,7 @@
 - ⭐ **[Star-DART-Skill](https://github.com/YunfanGoForIt/Star-DART-Skill)** — distill your GitHub stars into a personal open-source knowledge base: Star → DeepWiki → RAG → Feishu wiki
 - 📝 **[Smart-Minutes-Open](https://github.com/YunfanGoForIt/Smart-Minutes-Open)** — meeting ASR transcripts distilled into Feishu-grade smart minutes
 - 🎬 **[edit-tedxseu-talk](https://github.com/YunfanGoForIt/edit-tedxseu-talk)** · **[longform-podcast-editing-skill](https://github.com/YunfanGoForIt/longform-podcast-editing-skill)** — AI editing pipelines for TEDx talks & longform podcasts
-- 🧭 **[导向标 Advisor Compass](https://github.com/daoercompass)** · project lead — AI-driven mentor-matching platform: [scraping advisor info via Chrome MCP](https://github.com/daoercompass/mcp-chrome-scrape) → LLM cleaning → vector recall → multi-step reasoning agent, shipped as [web](https://github.com/daoercompass/compass-web) + [app](https://github.com/daoercompass/compass-app)
+- 🧭 **[Advisor Compass](https://github.com/daoercompass)** · project lead — AI-driven mentor-matching platform: [scraping advisor info via Chrome MCP](https://github.com/daoercompass/mcp-chrome-scrape) → LLM cleaning → vector recall → multi-step reasoning agent, shipped as [web](https://github.com/daoercompass/compass-web) + [app](https://github.com/daoercompass/compass-app)
 - 🌐 **[SEU-OpenWrt-Gateway](https://github.com/YunfanGoForIt/SEU-OpenWrt-Gateway)** — campus gateway on OpenWrt: multi-device, portal auto-login
 - 🔊 **[codex-tts](https://github.com/YunfanGoForIt/codex-tts)** — a voice companion that reads Codex answers aloud
 - 🫁 **[lung-ct-nodule-detection](https://github.com/YunfanGoForIt/lung-ct-nodule-detection)** — deep learning for lung CT nodule detection
@@ -76,9 +76,9 @@
 ### 🌐 My Sites
 
 <div align="center">
-  <a href="https://iflink.tech"><img width="340" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/logos/iflink-site.svg?v=2026080407" alt="IF.Link — iflink.tech" /></a>
+  <a href="https://iflink.tech"><img width="340" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/logos/iflink-site.svg?v=2026080408" alt="IF.Link — iflink.tech" /></a>
   &nbsp;&nbsp;
-  <a href="https://daoxiangbiao.cn"><img width="340" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/logos/daoxiangbiao-site.svg?v=2026080407" alt="Advisor Compass — daoxiangbiao.cn" /></a>
+  <a href="https://daoxiangbiao.cn"><img width="340" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/logos/daoxiangbiao-site.svg?v=2026080408" alt="Advisor Compass — daoxiangbiao.cn" /></a>
 </div>
 
 ### 📫 Find Me
@@ -103,5 +103,5 @@
     <img alt="contribution snake" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/output/github-contribution-grid-snake.svg" />
   </picture>
 
-  *如果你也在做 AI Agent / AI 社区 / AI 产品 / 硬件 / 生物医学工程 — 欢迎来聊 🙌*
+  *If you're also building AI agents / AI communities / AI products / hardware / BME — let's talk 🙌*
 </div>
