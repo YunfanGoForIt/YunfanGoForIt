@@ -22,7 +22,7 @@
 - 🎤 前 **TEDxSEU** 持牌人 —— 策划过 1500+ 观众的品牌活动,现在仍用 AI 流水线剪辑演讲视频
 - 🧬 生物医学 AI 支线:帕金森步态筛查硬件、肺 CT 结节检测
 
-### 🌱 IF.Link —— 我在建的社区
+### 🌱 [IF.Link](https://iflink.tech) —— 我在建的社区
 
 > *Link the IFs, connect the dots.* 以人为本,守护连接。
 
@@ -76,10 +76,9 @@
 ### 🌐 我的站点
 
 <div align="center">
-
-[![IF.Link](https://img.shields.io/badge/IF.Link_Community-iflink.tech-4d7c0f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iflink.tech)
-[![导向标](https://img.shields.io/badge/%E5%AF%BC%E5%90%91%E6%A0%87_Advisor_Compass-daoxiangbiao.cn-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://daoxiangbiao.cn)
-
+  <a href="https://iflink.tech"><img width="340" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/logos/iflink-site.svg" alt="IF.Link — iflink.tech" /></a>
+  &nbsp;&nbsp;
+  <a href="https://daoxiangbiao.cn"><img width="340" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/logos/daoxiangbiao-site.svg" alt="Advisor Compass — daoxiangbiao.cn" /></a>
 </div>
 
 ### 📫 找到我

@@ -22,7 +22,7 @@
 - 🎤 Former **TEDxSEU** licensee — planned brand events for 1500+ attendees, and still edit the talks (with AI pipelines, of course)
 - 🧬 Biomedical AI side quests: Parkinson's gait screening hardware, lung CT nodule detection
 
-### 🌱 IF.Link — the community I'm building
+### 🌱 [IF.Link](https://iflink.tech) — the community I'm building
 
 > *Link the IFs, connect the dots.* 以人为本，守护连接。
 
@@ -76,10 +76,9 @@
 ### 🌐 My Sites
 
 <div align="center">
-
-[![IF.Link](https://img.shields.io/badge/IF.Link_Community-iflink.tech-4d7c0f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iflink.tech)
-[![导向标](https://img.shields.io/badge/%E5%AF%BC%E5%90%91%E6%A0%87_Advisor_Compass-daoxiangbiao.cn-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://daoxiangbiao.cn)
-
+  <a href="https://iflink.tech"><img width="340" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/logos/iflink-site.svg" alt="IF.Link — iflink.tech" /></a>
+  &nbsp;&nbsp;
+  <a href="https://daoxiangbiao.cn"><img width="340" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/logos/daoxiangbiao-site.svg" alt="Advisor Compass — daoxiangbiao.cn" /></a>
 </div>
 
 ### 📫 Find Me
