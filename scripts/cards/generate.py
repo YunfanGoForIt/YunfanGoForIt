@@ -45,21 +45,18 @@ STAR = "M6 0l1.85 3.78 4.17.61-3.02 2.94.71 4.16L6 9.45l-3.71 2.04.71-4.16L-.02 
 
 def chrome(w: int, h: int) -> str:
     return f"""
-  <defs>
-    <radialGradient id="glowA" cx="8%" cy="0%" r="90%">
-      <stop offset="0%" stop-color="{ACCENT}" stop-opacity="0.10"/>
-      <stop offset="100%" stop-color="{ACCENT}" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glowB" cx="100%" cy="115%" r="80%">
-      <stop offset="0%" stop-color="#f778ba" stop-opacity="0.06"/>
-      <stop offset="100%" stop-color="#f778ba" stop-opacity="0"/>
-    </radialGradient>
-    <clipPath id="card"><rect width="{w}" height="{h}" rx="12"/></clipPath>
-  </defs>
-  <rect width="{w}" height="{h}" rx="12" fill="{BG}"/>
-  <rect width="{w}" height="{h}" rx="12" fill="url(#glowA)"/>
-  <rect width="{w}" height="{h}" rx="12" fill="url(#glowB)"/>
-  <rect width="{w}" height="{h}" rx="12" fill="none" stroke="#30363d" stroke-width="1"/>
+  <rect width="{w}" height="{h}" rx="10" fill="{BG}"/>
+  <rect width="{w}" height="{h}" rx="10" fill="none" stroke="#30363d" stroke-width="1"/>
+"""
+
+
+def card_header(w: int, title: str, note: str) -> str:
+    """Small-caps header row: accent square + title left, note right, hairline below."""
+    return f"""
+  <rect x="24" y="25" width="8" height="8" fill="{ACCENT}"/>
+  <text x="42" y="33" font-family="Outfit" font-weight="700" font-size="11" letter-spacing="4" fill="{INK}">{title}</text>
+  <text x="{w - 24}" y="33" text-anchor="end" font-family="Outfit" font-weight="500" font-size="9.5" letter-spacing="2.5" fill="{MUTE}">{note}</text>
+  <line x1="24" y1="46" x2="{w - 24}" y2="46" stroke="{HAIR}" stroke-width="1"/>
 """
 
 
@@ -103,7 +100,7 @@ def write_metrics(data: dict) -> Path:
     streak = longest_streak(days)
     segs = language_stats(repos)
 
-    w, h = 880, 224
+    w, h = 880, 256
     stats = [
         (str(total_stars), "TOTAL STARS"),
         (str(total_contribs), "CONTRIBUTIONS · 12M"),
@@ -116,28 +113,29 @@ def write_metrics(data: dict) -> Path:
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}">',
         f"<style>{css}</style>",
         chrome(w, h),
+        card_header(w, "GITHUB METRICS", "LAST 12 MONTHS · UPDATED DAILY"),
     ]
 
     for i, (num, label) in enumerate(stats):
         cx = cell_w * i + cell_w / 2
         if i > 0:
             parts.append(
-                f'<line x1="{cell_w * i}" y1="32" x2="{cell_w * i}" y2="120" stroke="{HAIR}" stroke-width="1"/>'
+                f'<line x1="{cell_w * i}" y1="70" x2="{cell_w * i}" y2="146" stroke="{HAIR}" stroke-width="1"/>'
             )
-        parts.append(f'<rect x="{cx - 10}" y="34" width="20" height="2" fill="{ACCENT}" opacity="0.85"/>')
+        parts.append(f'<rect x="{cx - 10}" y="74" width="20" height="2" fill="{ACCENT}"/>')
         parts.append(
-            f'<text x="{cx}" y="88" text-anchor="middle" font-family="Outfit" font-weight="900" font-size="46" fill="{INK}">{num}</text>'
+            f'<text x="{cx}" y="126" text-anchor="middle" font-family="Outfit" font-weight="900" font-size="46" fill="{INK}">{num}</text>'
         )
         parts.append(
-            f'<text x="{cx}" y="114" text-anchor="middle" font-family="Outfit" font-weight="500" font-size="10" letter-spacing="3" fill="{MUTE}">{label}</text>'
+            f'<text x="{cx}" y="152" text-anchor="middle" font-family="Outfit" font-weight="500" font-size="10" letter-spacing="3" fill="{MUTE}">{label}</text>'
         )
 
-    parts.append(f'<line x1="24" y1="140" x2="{w - 24}" y2="140" stroke="{HAIR}" stroke-width="1"/>')
+    parts.append(f'<line x1="24" y1="174" x2="{w - 24}" y2="174" stroke="{HAIR}" stroke-width="1"/>')
     parts.append(
-        f'<text x="24" y="164" font-family="Outfit" font-weight="500" font-size="10" letter-spacing="3" fill="{MUTE}">MOST USED LANGUAGES</text>'
+        f'<text x="24" y="198" font-family="Outfit" font-weight="500" font-size="10" letter-spacing="3" fill="{MUTE}">MOST USED LANGUAGES</text>'
     )
 
-    bar_x, bar_y, bar_w, bar_h = 24, 176, w - 48, 8
+    bar_x, bar_y, bar_w, bar_h = 24, 210, w - 48, 8
     x = bar_x
     bar_parts = []
     for _, p, c in segs:
@@ -180,41 +178,46 @@ def write_projects(data: dict, featured: list[dict]) -> Path:
             )
         )
 
-    w, cell_h = 880, 96
-    h = cell_h * 2 + 2
+    w, cell_h = 880, 92
+    grid_top = 56
+    h = grid_top + cell_h * 2 + 8
     css = font_css()
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}">',
         f"<style>{css}</style>",
         chrome(w, h),
+        card_header(w, "FEATURED PROJECTS", "SELECTED WORK"),
     ]
     cw = w / 2
-    parts.append(f'<line x1="{cw}" y1="20" x2="{cw}" y2="{h - 20}" stroke="{HAIR}" stroke-width="1"/>')
+    parts.append(f'<line x1="{cw}" y1="{grid_top + 6}" x2="{cw}" y2="{h - 14}" stroke="{HAIR}" stroke-width="1"/>')
     parts.append(
-        f'<line x1="24" y1="{cell_h + 1}" x2="{w - 24}" y2="{cell_h + 1}" stroke="{HAIR}" stroke-width="1"/>'
+        f'<line x1="24" y1="{grid_top + cell_h}" x2="{w - 24}" y2="{grid_top + cell_h}" stroke="{HAIR}" stroke-width="1"/>'
     )
 
     for i, (name, desc, lang, lcolor, stars) in enumerate(projects):
         col, row = i % 2, i // 2
-        ox, oy = col * cw, row * (cell_h + 1)
-        tx, ty = ox + 28, oy + 36
+        ox, oy = col * cw, grid_top + row * cell_h
         parts.append(
-            f'<text x="{tx}" y="{ty}" font-family="Outfit" font-weight="700" font-size="17" fill="{INK}">{name}</text>'
+            f'<text x="{ox + 28}" y="{oy + 32}" font-family="Outfit" font-weight="700" font-size="12" letter-spacing="2" fill="{ACCENT}">{i + 1:02d}</text>'
+        )
+        nx = ox + 58
+        parts.append(
+            f'<text x="{nx}" y="{oy + 32}" font-family="Outfit" font-weight="700" font-size="17" fill="{INK}">{name}</text>'
         )
         if stars:
-            sx = tx + len(name) * 10.5 + 16
+            sx = nx + len(name) * 10.5 + 14
             parts.append(
-                f'<g transform="translate({sx},{ty - 11}) scale(1.05)"><path d="{STAR}" fill="{ACCENT}"/></g>'
+                f'<g transform="translate({sx},{oy + 21}) scale(1.05)"><path d="{STAR}" fill="{ACCENT}"/></g>'
             )
             parts.append(
-                f'<text x="{sx + 15}" y="{ty}" font-family="Outfit" font-weight="500" font-size="12" fill="{MUTE}">{stars}</text>'
+                f'<text x="{sx + 15}" y="{oy + 32}" font-family="Outfit" font-weight="500" font-size="12" fill="{MUTE}">{stars}</text>'
             )
         parts.append(
-            f'<text x="{tx}" y="{ty + 24}" font-family="Outfit" font-weight="400" font-size="12.5" fill="{MUTE}">{desc}</text>'
+            f'<text x="{ox + 28}" y="{oy + 56}" font-family="Outfit" font-weight="400" font-size="12.5" fill="{MUTE}">{desc}</text>'
         )
-        parts.append(f'<circle cx="{tx + 4}" cy="{ty + 47}" r="4" fill="{lcolor}"/>')
+        parts.append(f'<circle cx="{ox + 32}" cy="{oy + 74}" r="4" fill="{lcolor}"/>')
         parts.append(
-            f'<text x="{tx + 15}" y="{ty + 51}" font-family="Outfit" font-weight="500" font-size="11" letter-spacing="1.5" fill="{MUTE}">{lang.upper()}</text>'
+            f'<text x="{ox + 43}" y="{oy + 78}" font-family="Outfit" font-weight="500" font-size="11" letter-spacing="1.5" fill="{MUTE}">{lang.upper()}</text>'
         )
     parts.append("</svg>")
 
