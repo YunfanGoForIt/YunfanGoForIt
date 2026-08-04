@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Star-DART-Skill",
+    "description": "GitHub stars distilled into a personal knowledge base."
+  },
+  {
+    "name": "Smart-Minutes-Open",
+    "description": "Meeting ASR to Feishu-grade smart minutes."
+  },
+  {
+    "name": "SEU-OpenWrt-Gateway",
+    "description": "Campus gateway: multi-device, portal auto-login."
+  },
+  {
+    "name": "codex-tts",
+    "description": "A voice companion that reads Codex answers aloud."
+  }
+]
