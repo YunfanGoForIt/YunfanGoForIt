@@ -227,18 +227,19 @@ def write_projects(data: dict, featured: list[dict]) -> Path:
 
 
 def bump_readme_cache() -> None:
-    if not README.exists():
-        return
     stamp = datetime.now(timezone.utc).strftime("%Y%m%d%H%M")
-    text = README.read_text(encoding="utf-8")
-    updated = re.sub(
-        r"(assets/(?:metrics|projects)\.svg)\?v=[^\"'\s]+",
-        rf"\1?v={stamp}",
-        text,
-    )
-    if updated != text:
-        README.write_text(updated, encoding="utf-8")
-        print(f"README cache-bust → ?v={stamp}")
+    for readme in (README, README.parent / "README.zh-CN.md"):
+        if not readme.exists():
+            continue
+        text = readme.read_text(encoding="utf-8")
+        updated = re.sub(
+            r"(assets/(?:metrics|projects)\.svg)\?v=[^\"'\s]+",
+            rf"\1?v={stamp}",
+            text,
+        )
+        if updated != text:
+            readme.write_text(updated, encoding="utf-8")
+            print(f"{readme.name} cache-bust → ?v={stamp}")
 
 
 def main() -> None:

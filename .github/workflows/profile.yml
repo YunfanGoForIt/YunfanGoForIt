@@ -56,6 +56,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh profile stats cards"
-          file_pattern: assets/metrics.svg assets/projects.svg README.md
+          file_pattern: assets/metrics.svg assets/projects.svg README.md README.zh-CN.md
           commit_user_name: github-actions[bot]
           commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com

@@ -1,5 +1,7 @@
 <div align="center">
 
+**English** · [简体中文](README.zh-CN.md)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=640&lines=Hi+%F0%9F%91%8B+I'm+Yufan+Liang+(%E6%A2%81%E5%AE%87%E5%87%A1);Founder+of+IF.Link+AI+Community;Open-source+Agent+Skills+Author;Undergrad+%40+Southeast+University+%F0%9F%8E%93;Teaching+zero-base+builders+to+ship+with+AI)](https://git.io/typing-svg)
 
 **Build the tool you wish existed — and the community you wish you had.**
@@ -60,23 +62,35 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="880" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/metrics.svg?v=202608040621" alt="GitHub metrics: stars, contributions, streak, repositories and most used languages" />
+  <img width="880" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/metrics.svg?v=202608040635" alt="GitHub metrics: stars, contributions, streak, repositories and most used languages" />
 </div>
 
 ### 🚀 Featured Projects
 
 <div align="center">
   <a href="https://github.com/YunfanGoForIt?tab=repositories">
-    <img width="880" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/projects.svg?v=202608040621" alt="Featured projects: Star-DART-Skill, Smart-Minutes-Open, SEU-OpenWrt-Gateway, codex-tts" />
+    <img width="880" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/projects.svg?v=202608040635" alt="Featured projects: Star-DART-Skill, Smart-Minutes-Open, SEU-OpenWrt-Gateway, codex-tts" />
   </a>
+</div>
+
+### 🌐 My Sites
+
+<div align="center">
+
+[![IF.Link](https://img.shields.io/badge/IF.Link_Community-iflink.tech-4d7c0f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iflink.tech)
+[![导向标](https://img.shields.io/badge/%E5%AF%BC%E5%90%91%E6%A0%87_Advisor_Compass-daoxiangbiao.cn-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://daoxiangbiao.cn)
+
 </div>
 
 ### 📫 Find Me
 
 <div align="center">
 
+[![Bilibili](https://img.shields.io/badge/Bilibili-%E4%BA%91%E5%B8%86MeetBeauty-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/152159038)
+[![小红书](https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-%E4%BA%91%E5%B8%86-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/63bbf5a90000000026006f48)
+[![Email](https://img.shields.io/badge/Email-yunfan1640618938%40163.com-70A5FD?style=for-the-badge)](mailto:yunfan1640618938@163.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-YunfanGoForIt-181717?style=for-the-badge&logo=github)](https://github.com/YunfanGoForIt)
-[![IF.Link](https://img.shields.io/badge/Community-iflink.tech-4d7c0f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iflink.tech)
 [![Feishu](https://img.shields.io/badge/Skills-Feishu%20Automation-3370FF?style=for-the-badge&logo=lark)](https://github.com/YunfanGoForIt/Smart-Minutes-Open)
 
 </div>
