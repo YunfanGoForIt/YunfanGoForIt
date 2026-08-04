@@ -90,5 +90,5 @@
     <img alt="contribution snake" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/output/github-contribution-grid-snake.svg" />
   </picture>
 
-  *如果你也在做 AI Agent / 校园工具 / 自动化 — 欢迎来聊 🙌*
+  *如果你也在做 AI Agent / AI 社区 / AI 产品 / 硬件 / 生物医学工程 — 欢迎来聊 🙌*
 </div>
