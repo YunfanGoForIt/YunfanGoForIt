@@ -76,9 +76,9 @@
 ### 🌐 我的站点
 
 <div align="center">
-  <a href="https://iflink.tech"><img width="340" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/logos/iflink-site.svg" alt="IF.Link — iflink.tech" /></a>
+  <a href="https://iflink.tech"><img width="340" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/logos/iflink-site.svg?v=2026080407" alt="IF.Link — iflink.tech" /></a>
   &nbsp;&nbsp;
-  <a href="https://daoxiangbiao.cn"><img width="340" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/logos/daoxiangbiao-site.svg" alt="Advisor Compass — daoxiangbiao.cn" /></a>
+  <a href="https://daoxiangbiao.cn"><img width="340" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/logos/daoxiangbiao-site.svg?v=2026080407" alt="Advisor Compass — daoxiangbiao.cn" /></a>
 </div>
 
 ### 📫 找到我
