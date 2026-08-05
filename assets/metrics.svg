@@ -18,7 +18,7 @@
 <text x="110.0" y="152" text-anchor="middle" font-family="Outfit" font-weight="500" font-size="10" letter-spacing="3" fill="#7d8590">TOTAL STARS</text>
 <line x1="220.0" y1="70" x2="220.0" y2="146" stroke="#21262d" stroke-width="1"/>
 <rect x="320.0" y="74" width="20" height="2" fill="#70a5fd"/>
-<text x="330.0" y="126" text-anchor="middle" font-family="Outfit" font-weight="900" font-size="46" fill="#e6edf3">175</text>
+<text x="330.0" y="126" text-anchor="middle" font-family="Outfit" font-weight="900" font-size="46" fill="#e6edf3">188</text>
 <text x="330.0" y="152" text-anchor="middle" font-family="Outfit" font-weight="500" font-size="10" letter-spacing="3" fill="#7d8590">CONTRIBUTIONS · 12M</text>
 <line x1="440.0" y1="70" x2="440.0" y2="146" stroke="#21262d" stroke-width="1"/>
 <rect x="540.0" y="74" width="20" height="2" fill="#70a5fd"/>
@@ -26,22 +26,22 @@
 <text x="550.0" y="152" text-anchor="middle" font-family="Outfit" font-weight="500" font-size="10" letter-spacing="3" fill="#7d8590">LONGEST STREAK</text>
 <line x1="660.0" y1="70" x2="660.0" y2="146" stroke="#21262d" stroke-width="1"/>
 <rect x="760.0" y="74" width="20" height="2" fill="#70a5fd"/>
-<text x="770.0" y="126" text-anchor="middle" font-family="Outfit" font-weight="900" font-size="46" fill="#e6edf3">40</text>
+<text x="770.0" y="126" text-anchor="middle" font-family="Outfit" font-weight="900" font-size="46" fill="#e6edf3">27</text>
 <text x="770.0" y="152" text-anchor="middle" font-family="Outfit" font-weight="500" font-size="10" letter-spacing="3" fill="#7d8590">REPOSITORIES</text>
 <line x1="24" y1="174" x2="856" y2="174" stroke="#21262d" stroke-width="1"/>
 <text x="24" y="198" font-family="Outfit" font-weight="500" font-size="10" letter-spacing="3" fill="#7d8590">MOST USED LANGUAGES</text>
 <clipPath id="barClip"><rect x="24" y="210" width="832" height="8" rx="4"/></clipPath>
-<g clip-path="url(#barClip)"><rect x="24.0" y="210" width="380.4" height="8" fill="#f1e05a"/><rect x="404.4" y="210" width="214.9" height="8" fill="#e34c26"/><rect x="619.3" y="210" width="61.1" height="8" fill="#3572A5"/><rect x="680.5" y="210" width="60.0" height="8" fill="#3178c6"/><rect x="740.5" y="210" width="47.5" height="8" fill="#A97BFF"/><rect x="788.0" y="210" width="68.0" height="8" fill="#30363d"/></g>
+<g clip-path="url(#barClip)"><rect x="24.0" y="210" width="310.7" height="8" fill="#f1e05a"/><rect x="334.7" y="210" width="261.2" height="8" fill="#3572A5"/><rect x="595.9" y="210" width="97.9" height="8" fill="#e34c26"/><rect x="693.8" y="210" width="52.2" height="8" fill="#f34b7d"/><rect x="746.0" y="210" width="49.0" height="8" fill="#00B4AB"/><rect x="795.1" y="210" width="60.9" height="8" fill="#30363d"/></g>
 <circle cx="27.0" cy="232" r="3" fill="#f1e05a"/>
-<text x="35.0" y="235.5" font-family="Outfit" font-weight="400" font-size="10.5" fill="#7d8590">JavaScript 46%</text>
-<circle cx="165.66666666666666" cy="232" r="3" fill="#e34c26"/>
-<text x="173.66666666666666" y="235.5" font-family="Outfit" font-weight="400" font-size="10.5" fill="#7d8590">HTML 26%</text>
-<circle cx="304.3333333333333" cy="232" r="3" fill="#3572A5"/>
-<text x="312.3333333333333" y="235.5" font-family="Outfit" font-weight="400" font-size="10.5" fill="#7d8590">Python 7%</text>
-<circle cx="443.0" cy="232" r="3" fill="#3178c6"/>
-<text x="451.0" y="235.5" font-family="Outfit" font-weight="400" font-size="10.5" fill="#7d8590">TypeScript 7%</text>
-<circle cx="581.6666666666666" cy="232" r="3" fill="#A97BFF"/>
-<text x="589.6666666666666" y="235.5" font-family="Outfit" font-weight="400" font-size="10.5" fill="#7d8590">Kotlin 6%</text>
+<text x="35.0" y="235.5" font-family="Outfit" font-weight="400" font-size="10.5" fill="#7d8590">JavaScript 37%</text>
+<circle cx="165.66666666666666" cy="232" r="3" fill="#3572A5"/>
+<text x="173.66666666666666" y="235.5" font-family="Outfit" font-weight="400" font-size="10.5" fill="#7d8590">Python 31%</text>
+<circle cx="304.3333333333333" cy="232" r="3" fill="#e34c26"/>
+<text x="312.3333333333333" y="235.5" font-family="Outfit" font-weight="400" font-size="10.5" fill="#7d8590">HTML 12%</text>
+<circle cx="443.0" cy="232" r="3" fill="#f34b7d"/>
+<text x="451.0" y="235.5" font-family="Outfit" font-weight="400" font-size="10.5" fill="#7d8590">C++ 6%</text>
+<circle cx="581.6666666666666" cy="232" r="3" fill="#00B4AB"/>
+<text x="589.6666666666666" y="235.5" font-family="Outfit" font-weight="400" font-size="10.5" fill="#7d8590">Dart 6%</text>
 <circle cx="720.3333333333333" cy="232" r="3" fill="#30363d"/>
-<text x="728.3333333333333" y="235.5" font-family="Outfit" font-weight="400" font-size="10.5" fill="#7d8590">Other 8%</text>
+<text x="728.3333333333333" y="235.5" font-family="Outfit" font-weight="400" font-size="10.5" fill="#7d8590">Other 7%</text>
 </svg>
