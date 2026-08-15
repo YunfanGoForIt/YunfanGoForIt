@@ -62,14 +62,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="880" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/metrics.svg?v=202608140153" alt="GitHub metrics: stars, contributions, streak, repositories and most used languages" />
+  <img width="880" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/metrics.svg?v=202608150111" alt="GitHub metrics: stars, contributions, streak, repositories and most used languages" />
 </div>
 
 ### 🚀 Featured Projects
 
 <div align="center">
   <a href="https://github.com/YunfanGoForIt?tab=repositories">
-    <img width="880" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/projects.svg?v=202608140153" alt="Featured projects: Star-DART-Skill, Smart-Minutes-Open, SEU-OpenWrt-Gateway, codex-tts" />
+    <img width="880" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/projects.svg?v=202608150111" alt="Featured projects: Star-DART-Skill, Smart-Minutes-Open, SEU-OpenWrt-Gateway, codex-tts" />
   </a>
 </div>
 
