@@ -62,14 +62,14 @@
 ### 📊 GitHub 数据
 
 <div align="center">
-  <img width="880" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/metrics.svg?v=202608200111" alt="GitHub 数据:stars、贡献、连续提交、仓库数与常用语言" />
+  <img width="880" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/metrics.svg?v=202608210115" alt="GitHub 数据:stars、贡献、连续提交、仓库数与常用语言" />
 </div>
 
 ### 🚀 精选项目
 
 <div align="center">
   <a href="https://github.com/YunfanGoForIt?tab=repositories">
-    <img width="880" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/projects.svg?v=202608200111" alt="精选项目:Star-DART-Skill、Smart-Minutes-Open、SEU-OpenWrt-Gateway、codex-tts" />
+    <img width="880" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/projects.svg?v=202608210115" alt="精选项目:Star-DART-Skill、Smart-Minutes-Open、SEU-OpenWrt-Gateway、codex-tts" />
   </a>
 </div>
 
