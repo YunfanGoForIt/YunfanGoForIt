@@ -32,7 +32,7 @@
 <text x="28.0" y="180" font-family="Outfit" font-weight="700" font-size="12" letter-spacing="2" fill="#70a5fd">03</text>
 <text x="58.0" y="180" font-family="Outfit" font-weight="700" font-size="17" fill="#e6edf3">SEU-OpenWrt-Gateway</text>
 <g transform="translate(271.5,169) scale(1.05)"><path d="M6 0l1.85 3.78 4.17.61-3.02 2.94.71 4.16L6 9.45l-3.71 2.04.71-4.16L-.02 4.39l4.17-.61z" fill="#70a5fd"/></g>
-<text x="286.5" y="180" font-family="Outfit" font-weight="500" font-size="12" fill="#7d8590">3</text>
+<text x="286.5" y="180" font-family="Outfit" font-weight="500" font-size="12" fill="#7d8590">4</text>
 <text x="28.0" y="204" font-family="Outfit" font-weight="400" font-size="12.5" fill="#7d8590">Campus gateway: multi-device, portal auto-login.</text>
 <circle cx="32.0" cy="222" r="4" fill="#89e051"/>
 <text x="43.0" y="226" font-family="Outfit" font-weight="500" font-size="11" letter-spacing="1.5" fill="#7d8590">SHELL</text>
