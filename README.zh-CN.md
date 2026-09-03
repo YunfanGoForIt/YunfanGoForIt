@@ -2,9 +2,9 @@
 
 [English](README.md) · **简体中文**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=640&lines=%E4%BD%A0%E5%A5%BD+%F0%9F%91%8B+%E6%88%91%E6%98%AF%E6%A2%81%E5%AE%87%E5%87%A1;IF.Link+AI+%E7%A4%BE%E5%8C%BA%E5%8F%91%E8%B5%B7%E4%BA%BA;%E5%BC%80%E6%BA%90+Agent+Skills+%E4%BD%9C%E8%80%85;%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6%E6%9C%AC%E7%A7%91%E5%9C%A8%E8%AF%BB+%F0%9F%8E%93;%E6%95%99%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%90%8C%E5%AD%A6%E7%94%A8+AI+%E5%81%9A%E5%87%BA%E4%BD%9C%E5%93%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=640&lines=%E6%9D%A5%E4%B8%96%E9%97%B4%EF%BC%8C%E7%8E%A9%E4%B8%80%E6%8A%8A;%E6%88%91%E6%98%AF%E6%A2%81%E5%AE%87%E5%87%A1;IF.Link+%E5%8F%91%E8%B5%B7%E4%BA%BA;IF.Land+%E8%81%94%E5%90%88%E8%B4%9F%E8%B4%A3%E4%BA%BA;TEDxSEU+24-25+%E7%A4%BE%E9%95%BF)](https://git.io/typing-svg)
 
-**造你希望存在的工具,也建你希望加入的社区。**
+**来世间，玩一把。**
 
 [![GitHub PRO](https://img.shields.io/badge/GitHub-PRO-1f6feb?style=flat-square&logo=github)](https://github.com/YunfanGoForIt)
 [![Visitors](https://komarev.com/ghpvc/?username=YunfanGoForIt&style=flat-square&color=70a5fd&label=PROFILE+VIEWS)](https://github.com/YunfanGoForIt)
@@ -15,12 +15,12 @@
 
 ### 🧭 关于我
 
-- 🎓 **东南大学**生物医学工程在读 —— 主修机器学习、信号与系统,课余大量时间都在写真正有人用的工具
-- 🌐 **[IF.Link](https://iflink.tech) 发起人** —— 从校园里长出来的 AI 创客社区,一个学期从 0 到 1000+ 成员
-- 🧩 开源 **Agent Skills** 作者 —— 把重复的 AI 工作流(知识库、会议纪要、演讲剪辑)做成可复用、可教学的流水线
-- 🧑‍🏫 **AI Coding 布道者** —— 带零基础同学在一场工作坊里,从想法一路走到上台演示
-- 🎤 前 **TEDxSEU** 持牌人 —— 策划过 1500+ 观众的品牌活动,现在仍用 AI 流水线剪辑演讲视频
-- 🧬 生物医学 AI 支线:帕金森步态筛查硬件、肺 CT 结节检测
+- 🎓 **东南大学**生物医学工程在读。用 AI 写代码三年，也拍街拍和短片，课余写真正有人用的工具
+- 🌐 **[IF.Link](https://iflink.tech) 发起人** —— 从东南大学起步的 AI 创客与科技交流社区，一个学期从 0 到 1000+ 成员
+- 🏝️ **[IF.Land](https://iflink.tech) 联合负责人** —— 造一座属于可能性的岛屿
+- 🧩 开源 **Agent Skills** 作者 —— 把重复的 AI 工作流（知识库、会议纪要、演讲剪辑）做成可复用、可教学的流水线
+- 🎤 **TEDxSEU** 24-25 届社长 —— 策划「川流」「共在」两场年度大会，线下观众超 1500 人
+- 🧬 生物医学 AI 支线：帕金森步态筛查硬件、肺 CT 结节检测
 
 ### 🌱 [IF.Link](https://iflink.tech) —— 我在建的社区
 
@@ -28,14 +28,14 @@
 
 <div align="center">
 
-| 👥 社区成员 | 🛠️ AI Coding 工作坊 | 🏝️ IF.Land 黑客松 | 🤝 合作伙伴 |
+| 👥 社区成员 | 🛠️ IF.Learn 工作坊 | 🏝️ IF.Land 黑客松 | 🤝 合作伙伴 |
 | :---: | :---: | :---: | :---: |
 | **1000+** | 4 场 · 双校区<br>**500+** 报名 · 现场提交 50+ 作品 | 十余所学校 **70+** 选手<br>36 小时共创 **21 个 Demo** | Datawhale、腾讯 Workbuddy、<br>东大学生处 / 团委 / 国家大学科技园等 |
 
 </div>
 
-- 🚀 **「从零入门 AI Coding」工作坊系列** —— 零基础同学走进来,三小时后上台演示自己的第一个小游戏、小网页。不少人因此回到社区,成为后续的组织者
-- 🏕️ **IF.Land AI 黑客松** —— 沉浸式世界观(选手是登岛的第一批「建设者」):市集广场展示、篝火晚会路演,36 小时共创
+- 🚀 **IF.Learn 工作坊** —— 零基础同学走进来，三小时后上台演示自己的第一个小游戏、小网页。不少人因此回到社区，成为后续的组织者
+- 🏕️ **IF.Land AI 黑客松** —— 造一座属于可能性的岛屿：市集广场展示、篝火晚会路演，36 小时共创
 - ☀️ **「领学一夏」** —— 面向南京高校准大学生的 AI 领学计划,进行中
 - 🛠️ **社区自己造工具**,见 **[IF-Link-Tech-Team](https://github.com/IF-Link-Tech-Team)**:[IF.Land 黑客松现场协同与展示系统](https://github.com/IF-Link-Tech-Team/ifland-system)、[社区官网](https://iflink.tech)与[论坛](https://github.com/IF-Link-Tech-Team/iflab-forum),以及 [SEU Info Hub](https://github.com/IF-Link-Tech-Team/seu-info-hub) —— 写给新生的四年信息站
 
@@ -44,7 +44,7 @@
 - ⭐ **[Star-DART-Skill](https://github.com/YunfanGoForIt/Star-DART-Skill)** —— 把你的 GitHub Star 蒸馏成个人开源知识库:Star → DeepWiki → RAG → 飞书知识库
 - 📝 **[Smart-Minutes-Open](https://github.com/YunfanGoForIt/Smart-Minutes-Open)** —— 会议语音转写,蒸馏成飞书级智能纪要
 - 🎬 **[edit-tedxseu-talk](https://github.com/YunfanGoForIt/edit-tedxseu-talk)** · **[longform-podcast-editing-skill](https://github.com/YunfanGoForIt/longform-podcast-editing-skill)** —— TEDx 演讲与长播客的 AI 剪辑流水线
-- 🧭 **[导向标 Advisor Compass](https://github.com/daoercompass)** · 项目负责人 —— AI 驱动的导师匹配平台:[Chrome MCP 抓取导师信息](https://github.com/daoercompass/mcp-chrome-scrape) → LLM 清洗 → 向量召回 → 多步推理 Agent,落地 [Web](https://github.com/daoercompass/compass-web) + [App](https://github.com/daoercompass/compass-app) 两端
+- 🧭 **[导向标 Advisor Compass](https://github.com/daoercompass)** · 项目负责人 —— AI 驱动的导师匹配和学术支持：按学校、学院和研究方向浏览、筛选、比较，落地 [Web](https://github.com/daoercompass/compass-web) + [App](https://github.com/daoercompass/compass-app)
 - 🌐 **[SEU-OpenWrt-Gateway](https://github.com/YunfanGoForIt/SEU-OpenWrt-Gateway)** —— OpenWrt 校园网关:多设备、校园网门户自动登录
 - 🔊 **[codex-tts](https://github.com/YunfanGoForIt/codex-tts)** —— 把 Codex 的回答读给你听的语音伙伴
 - 🫁 **[lung-ct-nodule-detection](https://github.com/YunfanGoForIt/lung-ct-nodule-detection)** —— 肺 CT 结节检测的深度学习实践
@@ -81,6 +81,8 @@
   <a href="https://daoxiangbiao.cn"><img width="340" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/main/assets/logos/daoxiangbiao-site.svg?v=2026080408" alt="Advisor Compass — daoxiangbiao.cn" /></a>
 </div>
 
+<p align="center"><a href="https://yunfangoforit.github.io">yunfangoforit.github.io</a> · 个人主页</p>
+
 ### 📫 找到我
 
 <div align="center">
@@ -103,5 +105,5 @@
     <img alt="contribution snake" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/output/github-contribution-grid-snake.svg" />
   </picture>
 
-  *如果你也在做 AI Agent / AI 社区 / AI 产品 / 硬件 / 生物医学工程 — 欢迎来聊 🙌*
+  *目前在看深圳 AI startup 的产品经理实习，欢迎 coffee chat。*
 </div>
