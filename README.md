@@ -15,12 +15,12 @@
 
 ### 🧭 About Me
 
-- 🎓 Undergraduate at **Southeast University**, BME. Three years of coding with AI, plus street photography and short films
+- 🎓 From Guangzhou. Undergraduate at **Southeast University**, BME. Three years of coding with AI, plus street photography and short films
 - 🌐 Founder of **[IF.Link](https://iflink.tech)** - an AI maker and tech community that started at SEU and grew from zero to 1000+ members in one semester
 - 🏝️ Co-lead of **IF.Land** - build an island of possibilities
 - 🧩 Open-source **Agent Skills** author - I turn repetitive AI workflows (knowledge bases, meeting minutes, talk editing) into reusable, teachable pipelines
-- 🎤 **TEDxSEU** president, 2024-25 - produced two annual events, 川流 and 共在, for 1500+ people in the room
-- 🧬 Biomedical AI side quests: Parkinson's gait screening hardware, lung CT nodule detection
+- 🎤 **TEDxSEU** president, 2024-25 - three branded events, 1500+ in the room, 26k+ views online
+- 🧬 Biomedical side quests: Parkinson's early-screening brace (EMG + muscle tone), lung CT nodule detection
 
 ### 🌱 [IF.Link](https://iflink.tech) — the community I'm building
 
@@ -44,7 +44,8 @@
 - ⭐ **[Star-DART-Skill](https://github.com/YunfanGoForIt/Star-DART-Skill)** — distill your GitHub stars into a personal open-source knowledge base: Star → DeepWiki → RAG → Feishu wiki
 - 📝 **[Smart-Minutes-Open](https://github.com/YunfanGoForIt/Smart-Minutes-Open)** — meeting ASR transcripts distilled into Feishu-grade smart minutes
 - 🎬 **[edit-tedxseu-talk](https://github.com/YunfanGoForIt/edit-tedxseu-talk)** · **[longform-podcast-editing-skill](https://github.com/YunfanGoForIt/longform-podcast-editing-skill)** — AI editing pipelines for TEDx talks & longform podcasts
-- 🧭 **[Advisor Compass](https://github.com/daoercompass)** · project lead - AI mentor matching and academic support: browse, filter, and compare advisors by school, college, and research area. Shipped as [web](https://github.com/daoercompass/compass-web) + [app](https://github.com/daoercompass/compass-app)
+- 🧭 **[Advisor Compass](https://github.com/daoercompass)** · project lead - AI mentor matching: scrape and structure research data, vector recall, then a matching agent with tool use and text+vector memory. Shipped as [web](https://github.com/daoercompass/compass-web) + [app](https://github.com/daoercompass/compass-app)
+- 🩺 Parkinson's early-screening brace · hardware lead — EMG and muscle-tone acquisition, analog front-end to MCU and host analysis
 - 🌐 **[SEU-OpenWrt-Gateway](https://github.com/YunfanGoForIt/SEU-OpenWrt-Gateway)** — campus gateway on OpenWrt: multi-device, portal auto-login
 - 🔊 **[codex-tts](https://github.com/YunfanGoForIt/codex-tts)** — a voice companion that reads Codex answers aloud
 - 🫁 **[lung-ct-nodule-detection](https://github.com/YunfanGoForIt/lung-ct-nodule-detection)** — deep learning for lung CT nodule detection
@@ -105,5 +106,5 @@
     <img alt="contribution snake" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/output/github-contribution-grid-snake.svg" />
   </picture>
 
-  *Looking at product internships at AI startups in Shenzhen. Happy to coffee chat.*
+  *Happy to coffee chat.*
 </div>

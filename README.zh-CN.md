@@ -15,12 +15,12 @@
 
 ### 🧭 关于我
 
-- 🎓 **东南大学**生物医学工程在读。用 AI 写代码三年，也拍街拍和短片，课余写真正有人用的工具
+- 🎓 广州人，**东南大学**生物医学工程在读。用 AI 写代码三年，也拍街拍和短片，课余写真正有人用的工具
 - 🌐 **[IF.Link](https://iflink.tech) 发起人** —— 从东南大学起步的 AI 创客与科技交流社区，一个学期从 0 到 1000+ 成员
 - 🏝️ **[IF.Land](https://iflink.tech) 联合负责人** —— 造一座属于可能性的岛屿
 - 🧩 开源 **Agent Skills** 作者 —— 把重复的 AI 工作流（知识库、会议纪要、演讲剪辑）做成可复用、可教学的流水线
-- 🎤 **TEDxSEU** 24-25 届社长 —— 策划「川流」「共在」两场年度大会，线下观众超 1500 人
-- 🧬 生物医学 AI 支线：帕金森步态筛查硬件、肺 CT 结节检测
+- 🎤 **TEDxSEU** 24-25 届社长 —— 主持策划三场品牌活动，线下观众超 1500 人，线上视频播放超 2.6 万
+- 🧬 生物医学支线：帕金森早筛护具（肌电 + 肌张力）、肺 CT 结节检测
 
 ### 🌱 [IF.Link](https://iflink.tech) —— 我在建的社区
 
@@ -44,7 +44,8 @@
 - ⭐ **[Star-DART-Skill](https://github.com/YunfanGoForIt/Star-DART-Skill)** —— 把你的 GitHub Star 蒸馏成个人开源知识库:Star → DeepWiki → RAG → 飞书知识库
 - 📝 **[Smart-Minutes-Open](https://github.com/YunfanGoForIt/Smart-Minutes-Open)** —— 会议语音转写,蒸馏成飞书级智能纪要
 - 🎬 **[edit-tedxseu-talk](https://github.com/YunfanGoForIt/edit-tedxseu-talk)** · **[longform-podcast-editing-skill](https://github.com/YunfanGoForIt/longform-podcast-editing-skill)** —— TEDx 演讲与长播客的 AI 剪辑流水线
-- 🧭 **[导向标 Advisor Compass](https://github.com/daoercompass)** · 项目负责人 —— AI 驱动的导师匹配和学术支持：按学校、学院和研究方向浏览、筛选、比较，落地 [Web](https://github.com/daoercompass/compass-web) + [App](https://github.com/daoercompass/compass-app)
+- 🧭 **[导向标 Advisor Compass](https://github.com/daoercompass)** · 项目负责人 —— AI 导师匹配：抓取并结构化研究方向、向量召回，再加一层会查库的匹配 Agent。落地 [Web](https://github.com/daoercompass/compass-web) + [App](https://github.com/daoercompass/compass-app)
+- 🩺 帕金森早筛护具 · 硬件系统负责人 —— 肌电和肌张力采集，模拟电路到单片机和上位机
 - 🌐 **[SEU-OpenWrt-Gateway](https://github.com/YunfanGoForIt/SEU-OpenWrt-Gateway)** —— OpenWrt 校园网关:多设备、校园网门户自动登录
 - 🔊 **[codex-tts](https://github.com/YunfanGoForIt/codex-tts)** —— 把 Codex 的回答读给你听的语音伙伴
 - 🫁 **[lung-ct-nodule-detection](https://github.com/YunfanGoForIt/lung-ct-nodule-detection)** —— 肺 CT 结节检测的深度学习实践
@@ -105,5 +106,5 @@
     <img alt="contribution snake" src="https://raw.githubusercontent.com/YunfanGoForIt/YunfanGoForIt/output/github-contribution-grid-snake.svg" />
   </picture>
 
-  *目前在看深圳 AI startup 的产品经理实习，欢迎 coffee chat。*
+  *欢迎 coffee chat。*
 </div>
