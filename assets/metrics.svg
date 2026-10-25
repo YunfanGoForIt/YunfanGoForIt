@@ -18,7 +18,7 @@
 <text x="110.0" y="152" text-anchor="middle" font-family="Outfit" font-weight="500" font-size="10" letter-spacing="3" fill="#7d8590">TOTAL STARS</text>
 <line x1="220.0" y1="70" x2="220.0" y2="146" stroke="#21262d" stroke-width="1"/>
 <rect x="320.0" y="74" width="20" height="2" fill="#70a5fd"/>
-<text x="330.0" y="126" text-anchor="middle" font-family="Outfit" font-weight="900" font-size="46" fill="#e6edf3">360</text>
+<text x="330.0" y="126" text-anchor="middle" font-family="Outfit" font-weight="900" font-size="46" fill="#e6edf3">364</text>
 <text x="330.0" y="152" text-anchor="middle" font-family="Outfit" font-weight="500" font-size="10" letter-spacing="3" fill="#7d8590">CONTRIBUTIONS · 12M</text>
 <line x1="440.0" y1="70" x2="440.0" y2="146" stroke="#21262d" stroke-width="1"/>
 <rect x="540.0" y="74" width="20" height="2" fill="#70a5fd"/>
@@ -31,9 +31,9 @@
 <line x1="24" y1="174" x2="856" y2="174" stroke="#21262d" stroke-width="1"/>
 <text x="24" y="198" font-family="Outfit" font-weight="500" font-size="10" letter-spacing="3" fill="#7d8590">MOST USED LANGUAGES</text>
 <clipPath id="barClip"><rect x="24" y="210" width="832" height="8" rx="4"/></clipPath>
-<g clip-path="url(#barClip)"><rect x="24.0" y="210" width="333.6" height="8" fill="#f1e05a"/><rect x="357.6" y="210" width="241.0" height="8" fill="#3572A5"/><rect x="598.6" y="210" width="101.3" height="8" fill="#e34c26"/><rect x="699.9" y="210" width="48.2" height="8" fill="#f34b7d"/><rect x="748.1" y="210" width="45.3" height="8" fill="#00B4AB"/><rect x="793.4" y="210" width="62.6" height="8" fill="#30363d"/></g>
+<g clip-path="url(#barClip)"><rect x="24.0" y="210" width="339.5" height="8" fill="#f1e05a"/><rect x="363.5" y="210" width="238.2" height="8" fill="#3572A5"/><rect x="601.7" y="210" width="100.1" height="8" fill="#e34c26"/><rect x="701.8" y="210" width="47.6" height="8" fill="#f34b7d"/><rect x="749.4" y="210" width="44.7" height="8" fill="#00B4AB"/><rect x="794.1" y="210" width="61.9" height="8" fill="#30363d"/></g>
 <circle cx="27.0" cy="232" r="3" fill="#f1e05a"/>
-<text x="35.0" y="235.5" font-family="Outfit" font-weight="400" font-size="10.5" fill="#7d8590">JavaScript 40%</text>
+<text x="35.0" y="235.5" font-family="Outfit" font-weight="400" font-size="10.5" fill="#7d8590">JavaScript 41%</text>
 <circle cx="165.66666666666666" cy="232" r="3" fill="#3572A5"/>
 <text x="173.66666666666666" y="235.5" font-family="Outfit" font-weight="400" font-size="10.5" fill="#7d8590">Python 29%</text>
 <circle cx="304.3333333333333" cy="232" r="3" fill="#e34c26"/>
@@ -43,5 +43,5 @@
 <circle cx="581.6666666666666" cy="232" r="3" fill="#00B4AB"/>
 <text x="589.6666666666666" y="235.5" font-family="Outfit" font-weight="400" font-size="10.5" fill="#7d8590">Dart 5%</text>
 <circle cx="720.3333333333333" cy="232" r="3" fill="#30363d"/>
-<text x="728.3333333333333" y="235.5" font-family="Outfit" font-weight="400" font-size="10.5" fill="#7d8590">Other 8%</text>
+<text x="728.3333333333333" y="235.5" font-family="Outfit" font-weight="400" font-size="10.5" fill="#7d8590">Other 7%</text>
 </svg>
